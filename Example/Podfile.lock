@@ -1,0 +1,14 @@
+PODS:
+  - ZDropdown (0.1.0)
+
+DEPENDENCIES:
+  - ZDropdown (from `../`)
+
+EXTERNAL SOURCES:
+  ZDropdown:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZDropdown: 9d11e8ef8888cd8b8f001074aef86475c24ca306
+
+COCOAPODS: 0.39.0

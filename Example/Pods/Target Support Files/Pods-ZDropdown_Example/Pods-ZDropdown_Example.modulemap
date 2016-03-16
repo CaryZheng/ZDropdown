@@ -1,0 +1,6 @@
+framework module Pods_ZDropdown_Example {
+  umbrella header "Pods-ZDropdown_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

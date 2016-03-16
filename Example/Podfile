@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'ZDropdown_Example', :exclusive => true do
+  pod 'ZDropdown', :path => '../'
+end
+
+target 'ZDropdown_Tests', :exclusive => true do
+  pod 'ZDropdown', :path => '../'
+
+  
+end
